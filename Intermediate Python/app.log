@@ -1,0 +1,6 @@
+2024-12-07 18:04:14,854 - INFO - This is an info message.
+2024-12-07 18:04:14,856 - WARNING - This is a warning message.
+2024-12-07 18:04:14,857 - ERROR - This is an error message.
+2024-12-07 18:04:56,317 - INFO - This log will be saved in a file!
+2024-12-07 18:05:09,465 - INFO - This log will be saved in a file!
+2024-12-07 18:05:10,425 - INFO - This log will be saved in a file!

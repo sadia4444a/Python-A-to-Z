@@ -1,0 +1,32 @@
+2024-12-07 19:12:54,003 - INFO - Starting epoch 1.
+2024-12-07 19:12:55,007 - INFO - Completed epoch 1.
+2024-12-07 19:12:55,009 - INFO - Starting epoch 2.
+2024-12-07 19:12:56,016 - INFO - Completed epoch 2.
+2024-12-07 19:12:56,018 - INFO - Starting epoch 3.
+2024-12-07 19:12:57,025 - ERROR - Error during epoch 3: GPU memory overflow.
+2024-12-07 19:12:57,027 - INFO - Starting epoch 4.
+2024-12-07 19:12:58,033 - INFO - Completed epoch 4.
+2024-12-07 19:12:58,034 - INFO - Starting epoch 5.
+2024-12-07 19:12:59,038 - INFO - Completed epoch 5.
+2024-12-07 19:12:59,040 - INFO - Starting epoch 6.
+2024-12-07 19:13:00,045 - INFO - Completed epoch 6.
+2024-12-07 19:12:55,009 - INFO - Starting epoch 2.
+2024-12-07 19:12:56,016 - INFO - Completed epoch 2.
+2024-12-07 19:12:56,018 - INFO - Starting epoch 3.
+2024-12-07 19:12:57,025 - ERROR - Error during epoch 3: GPU memory overflow.
+2024-12-07 19:12:57,027 - INFO - Starting epoch 4.
+2024-12-07 19:12:58,033 - INFO - Completed epoch 4.
+2024-12-07 19:12:58,034 - INFO - Starting epoch 5.
+2024-12-07 19:12:59,038 - INFO - Completed epoch 5.
+2024-12-07 19:12:59,040 - INFO - Starting epoch 6.
+2024-12-07 19:13:00,045 - INFO - Completed epoch 6.
+2024-12-07 19:12:55,009 - INFO - Starting epoch 2.
+2024-12-07 19:12:56,016 - INFO - Completed epoch 2.
+2024-12-07 19:12:56,018 - INFO - Starting epoch 3.
+2024-12-07 19:12:57,025 - ERROR - Error during epoch 3: GPU memory overflow.
+2024-12-07 19:12:57,027 - INFO - Starting epoch 4.
+2024-12-07 19:12:58,033 - INFO - Completed epoch 4.
+2024-12-07 19:12:58,034 - INFO - Starting epoch 5.
+2024-12-07 19:12:59,038 - INFO - Completed epoch 5.
+2024-12-07 19:12:59,040 - INFO - Starting epoch 6.
+2024-12-07 19:13:00,045 - INFO - Completed epoch 6.
